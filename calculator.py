@@ -137,4 +137,5 @@ bp.place(x = 290 , y = 460)
 bc = Button(win , text = 'c' , width = 50 , height = 2 , command = c_l_s)
 bc.place(x = 10 , y = 540)
 
+
 win.mainloop()
